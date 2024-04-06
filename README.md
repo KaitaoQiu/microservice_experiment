@@ -99,4 +99,4 @@ This will discover and run all the test cases defined in the `test_misc` directo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KaitaoQiu/microservice_experiment/blob/master/LICENSE) file for details.
